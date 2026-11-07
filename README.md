@@ -37,7 +37,7 @@ All displayed times are Austin local time, CST (UTC−6). Oral and spotlight tim
 
 ## Content and sources
 
-Snapshot reviewed November 6, 2026: 41 main-conference papers, plus workshop appearances and papers. Confirmed session chairs include Ken Goldberg (Monday's Negar Mehr keynote), Koushil Sreenath (Tuesday Oral O7) and Negar Mehr (Wednesday Spotlight S6).
+Snapshot reviewed November 6, 2026: 33 main-conference papers, plus workshop appearances and papers. Confirmed session chairs include Ken Goldberg (Monday's Negar Mehr keynote), Koushil Sreenath (Tuesday Oral O7) and Negar Mehr (Wednesday Spotlight S6).
 
 - Official program: https://www.corl.org/program
 - BAIR faculty: https://bair.berkeley.edu/people/faculty
@@ -53,3 +53,11 @@ Content counts, author-list inclusion, internal anchors and JavaScript syntax we
 Before publication, check search, filters, day navigation, mobile layout, print layout and HTML download in a browser, and confirm any changed conference times.
 
 No license has been assigned in this package. The repository owner should choose the appropriate licensing terms before adding a LICENSE file.
+
+## Paper affiliation review (November 6, 2026)
+
+Include a paper only when at least one author lists UC Berkeley on the paper. Joint affiliations qualify. BAIR membership alone does not establish eligibility. Faculty talks, chairs and other workshop participation remain listed separately.
+
+The revised schedule contains 33 main-conference papers and 5 additional workshop papers (38 unique papers). Eight main-conference papers and one additional workshop paper were excluded for having no UC Berkeley affiliation; one workshop paper is withheld because its paper affiliations could not be verified. See `affiliation-audit.csv` for all 48 decisions and primary sources. The on-page paper affiliation links provide the evidence for retained entries.
+
+This package updates the earlier source archive; it does not update a GitHub repository or deploy a website automatically.
